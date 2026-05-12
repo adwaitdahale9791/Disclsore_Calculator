@@ -76,10 +76,4 @@ The overall 90% on-time rate is heavily weighted by the large number of Large Ac
 
 Timely disclosure is a cornerstone of market transparency. Delays — even short ones — can disadvantage investors, signal operational stress, or reflect governance gaps. Understanding *which* companies delay, *by how much*, and *in what pattern* provides a data-driven foundation for regulatory prioritisation and compliance benchmarking.
 
-
-
----
-
-## License
-
-MIT License — see `LICENSE` for details.
+## This is a personal project executed to learn application of python in data analysis. The views expressed above are not representative of any organiation and are personal. Any suggestions for improvement are welcome.
