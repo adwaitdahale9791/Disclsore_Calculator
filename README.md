@@ -63,12 +63,12 @@ The overall 90% on-time rate is heavily weighted by the large number of Large Ac
 
 ## Filer Category Reference (SEC Definitions)
 
-| Category | Criteria |
-|---|---|
-| Large Accelerated Filer | Public float ≥ $700M |
-| Accelerated Filer | Public float $75M–$700M |
-| Non-Accelerated Filer | Public float < $75M (and not SRC/EGC) |
-| Emerging Growth Company | IPO after Dec 8, 2011; revenue < $1.235B |
+| Category | Criteria | Disclsoure timeline (from FY end)|
+|---|---|---|
+| Large Accelerated Filer | Public float ≥ $700M |60 days|
+| Accelerated Filer | Public float $75M–$700M |75 days|
+| Non-Accelerated Filer | Public float < $75M (and not SRC/EGC) |90 days|
+| Emerging Growth Company | IPO after Dec 8, 2011; revenue < $1.235B |90 days|
 
 ---
 
